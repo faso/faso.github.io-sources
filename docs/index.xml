@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arthur Tabatchnic (faso) - Personal Blog</title>
+    <link>https://faso.dev/</link>
+    <description>Recent content on Arthur Tabatchnic (faso) - Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://faso.dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://faso.dev/posts/intro/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://faso.dev/posts/intro/</guid>
+      <description>Hello World Hi. My name is Arthur. I go by faso online. I write software for a living and I think a lot about programming, computation and how we interface with technology.
+You can find a link to my GitHub at the very bottom of page. I put some of the things I&amp;rsquo;m working on there.
+Mission statement I intend to use this blog as a place to report my thoughts and research in things I mentioned a couple sentences ago.</description>
+    </item>
+    
+  </channel>
+</rss>
